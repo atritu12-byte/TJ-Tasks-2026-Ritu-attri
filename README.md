@@ -11,6 +11,15 @@
  2. 👉🏻**DevOps**
 
 ## AI TASKS
-  1. I worked on two basic levels of Ai task which were as follows:
-    - Level 1 — Basic NLP: Stop Words & Decision Trees
+I worked on two basic levels of Ai task which were as follows:
+1. Level 1 — Basic NLP: Stop Words & Decision Trees
      - HERE, i used the approach of basic if-else conditions along with adding nlp based classificationa nd tokenisation.
+2. Level 2 - Simulated Neural Network (Perceptron)
+     - Here, I used if else loop with some conditions and basic neaural netwrok approach 
+
+## DevOps TASKS
+- In this i created a basic html and css based website called "NIBBLENEST" it had several options of selecting "leftover items" in your fridge which you can select and find recipes based on the ingredient you chose
+
+- it contains several images which were inserted using html and the page was designed with different fonts 
+
+- (the site is not fully functional yet)
