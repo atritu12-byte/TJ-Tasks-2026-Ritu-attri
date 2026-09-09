@@ -1,0 +1,31 @@
+<html>
+<head><title>Student Page</title></head>
+<body>
+<h1>Student Profile</h1>
+<p>Name: Ritu</p>
+<p>Class: XII</p>
+
+<h3>Subjects & Marks</h3>
+<ul>
+<li>Physics – 78</li>
+<li>Chemistry – 82</li>
+<li>Computer – 90</li>
+</ul>
+
+<b><i>THE END</i></b>
+</body>
+</html><html> 
+<head> <title> Student Page </head> </title>
+<body> 
+<h1> Student Profile</h1>
+<p>Name : Ananya Attri</p>
+<p>Class :6th 'A' </p>
+<h3> Subject and Marks </h3>
+<ul>
+<li>Maths : 78 </li>
+<li>Science : 79</li>
+<li> Computer : 80 </li>
+</ul>
+<b> <i> The End </b> </i>
+</body> 
+</html>
