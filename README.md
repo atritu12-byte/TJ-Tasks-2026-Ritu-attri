@@ -22,4 +22,7 @@ I worked on two basic levels of Ai task which were as follows:
 
 - it contains several images which were inserted using html and the page was designed with different fonts 
 
-- (the site is not fully functional yet)
+### NIBBLE NEST PREVIEW
+![NIBBLENEST Website](nibblenest.png)
+
+- *(The site is not fully functional yet.)*
