@@ -25,4 +25,4 @@ I worked on two basic levels of Ai task which were as follows:
 ### NIBBLE NEST PREVIEW
 ![NIBBLENEST Website](nibblenest.png)
 
-- *(The site is not fully functional yet.)*
+- *(The site is not functional yet.)*
