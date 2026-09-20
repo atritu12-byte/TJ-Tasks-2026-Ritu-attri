@@ -6,9 +6,7 @@
   - A curious learner who loves turning ideas into code and figuring out how things work.
   - A future tech professional maybe?
 
-## I Explored 2 categories of task given by team TJ:
- 1. 👉🏻**AI**
- 2. 👉🏻**DevOps**
+## I Explored AI tasks which were as follows:
 
 ## AI TASKS
 I worked on two basic levels of Ai task which were as follows:
@@ -16,13 +14,3 @@ I worked on two basic levels of Ai task which were as follows:
      - HERE, i used the approach of basic if-else conditions along with adding nlp based classificationa nd tokenisation.
 2. Level 2 - Simulated Neural Network (Perceptron)
      - Here, I used if else loop with some conditions and basic neaural netwrok approach 
-
-## DevOps TASKS
-- In this i created a basic html and css based website called "NIBBLENEST" it had several options of selecting "leftover items" in your fridge which you can select and find recipes based on the ingredient you chose
-
-- it contains several images which were inserted using html and the page was designed with different fonts 
-
-### NIBBLE NEST PREVIEW
-![NIBBLENEST Website](./NIBBLENEST.png)
-
-- *(The site is not functional yet.)*
